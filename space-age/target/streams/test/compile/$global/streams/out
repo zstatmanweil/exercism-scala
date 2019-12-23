@@ -1,0 +1,21 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:22:21: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(2.329871239E9)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    SpaceAge.onMars(2.329871239E9) should be (39.25 +- 0.01)[0m
+[0m[[0m[31merror[0m] [0m[0m                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:32:23: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(3.0E9)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    SpaceAge.onSaturn(3.0E9) should be (3.23 +- 0.01)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:37:23: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(3.210123456E9)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    SpaceAge.onUranus(3.210123456E9) should be (1.21 +- 0.01)[0m
+[0m[[0m[31merror[0m] [0m[0m                      ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/space-age/src/test/scala/SpaceAgeTest.scala:42:24: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(8.210123456E9)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Int[0m
+[0m[[0m[31merror[0m] [0m[0m    SpaceAge.onNeptune(8.210123456E9) should be (1.58 +- 0.01)[0m
+[0m[[0m[31merror[0m] [0m[0m                       ^[0m
+[0m[[0m[31merror[0m] [0m[0mfour errors found[0m

@@ -1,0 +1,11 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/etl/src/main/scala/Etl.scala:11:17: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : String[0m
+[0m[[0m[31merror[0m] [0m[0m required: Char[0m
+[0m[[0m[31merror[0m] [0m[0m          add(l.toLowerCase, value)[0m
+[0m[[0m[31merror[0m] [0m[0m                ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/zoestatman-weil/Exercism/scala/etl/src/main/scala/Etl.scala:14:5: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Map[Char,Int][0m
+[0m[[0m[31merror[0m] [0m[0m required: Map[String,Int][0m
+[0m[[0m[31merror[0m] [0m[0m    newSystem[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
