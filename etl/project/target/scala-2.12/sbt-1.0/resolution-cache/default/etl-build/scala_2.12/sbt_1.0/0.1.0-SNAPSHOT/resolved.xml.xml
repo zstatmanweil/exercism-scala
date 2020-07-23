@@ -4,7 +4,7 @@
 		module="etl-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20191220172443"
+		publication="20200101125144"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>
