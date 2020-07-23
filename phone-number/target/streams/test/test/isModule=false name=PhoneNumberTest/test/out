@@ -1,0 +1,15 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mPhoneNumberTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cleans the number[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cleans numbers with dots[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- cleans numbers with multiple spaces[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid when 9 digits[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid when 11 digits does not start with a 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- valid when 11 digits and starting with 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- valid when 11 digits and starting with 1 even with punctuation[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid when more than 11 digits[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid with letters[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid with punctuations[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid if area code starts with 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid if area code starts with 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid if exchange code starts with 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- invalid if exchange code starts with 1[0m[0m

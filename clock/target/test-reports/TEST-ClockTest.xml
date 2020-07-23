@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite hostname="Zoes-MacBook-Pro" name="ClockTest" tests="50" errors="0" failures="0" skipped="0" time="0.036" timestamp="2020-02-28T16:18:42">
+                     <properties>
+      <property name="jline.esc.timeout" value="0"/><property name="jna.platform.library.path" value="/usr/lib:/usr/lib"/><property name="java.runtime.name" value="OpenJDK Runtime Environment"/><property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/><property name="java.vm.version" value="25.222-b10"/><property name="gopherProxySet" value="false"/><property name="java.vm.vendor" value="AdoptOpenJDK"/><property name="java.vendor.url" value="http://java.oracle.com/"/><property name="path.separator" value=":"/><property name="jna.loaded" value="true"/><property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/><property name="file.encoding.pkg" value="sun.io"/><property name="user.country" value="US"/><property name="sun.java.launcher" value="SUN_STANDARD"/><property name="sun.os.patch.level" value="unknown"/><property name="jna.nosys" value="true"/><property name="java.vm.specification.name" value="Java Virtual Machine Specification"/><property name="user.dir" value="/Users/zoestatman-weil/Exercism/scala/clock"/><property name="java.runtime.version" value="1.8.0_222-b10"/><property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/><property name="idea.managed" value="true"/><property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/endorsed"/><property name="os.arch" value="x86_64"/><property name="java.io.tmpdir" value="/var/folders/9b/nqp9_k6n5jq_hxgyp5ypjzv40000gn/T/"/><property name="line.separator" value="
+"/><property name="java.vm.specification.vendor" value="Oracle Corporation"/><property name="os.name" value="Mac OS X"/><property name="sun.jnu.encoding" value="UTF-8"/><property name="jnidispatch.path" value="/var/folders/9b/nqp9_k6n5jq_hxgyp5ypjzv40000gn/T/jna--1959495896/jna8207587456001683129.tmp"/><property name="java.library.path" value="/Users/zoestatman-weil/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/><property name="java.specification.name" value="Java Platform API Specification"/><property name="java.class.version" value="52.0"/><property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/><property name="os.version" value="10.14.6"/><property name="http.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="user.home" value="/Users/zoestatman-weil"/><property name="user.timezone" value="America/Los_Angeles"/><property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/><property name="file.encoding" value="UTF-8"/><property name="java.specification.version" value="1.8"/><property name="java.class.path" value="/Users/zoestatman-weil/Library/Application Support/IdeaIC2019.2/Scala/launcher/sbt-launch.jar"/><property name="user.name" value="zoestatman-weil"/><property name="jline.shutdownhook" value="false"/><property name="java.vm.specification.version" value="1.8"/><property name="sun.java.command" value="/Users/zoestatman-weil/Library/Application Support/IdeaIC2019.2/Scala/launcher/sbt-launch.jar --addPluginSbtFile=/private/var/folders/9b/nqp9_k6n5jq_hxgyp5ypjzv40000gn/T/idea1.sbt ; set ideaPort in Global := 51274 ; idea-shell"/><property name="java.home" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre"/><property name="sun.arch.data.model" value="64"/><property name="user.language" value="en"/><property name="java.specification.vendor" value="Oracle Corporation"/><property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/><property name="java.vm.info" value="mixed mode"/><property name="java.version" value="1.8.0_222"/><property name="java.ext.dirs" value="/Users/zoestatman-weil/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/><property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes"/><property name="java.vendor" value="AdoptOpenJDK"/><property name="file.separator" value="/"/><property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/><property name="sbt.supershell" value="false"/><property name="sun.io.unicode.encoding" value="UnicodeBig"/><property name="sun.cpu.endian" value="little"/><property name="socksNonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="ftp.nonProxyHosts" value="local|*.local|169.254/16|*.169.254/16"/><property name="sun.cpu.isalist" value=""/>
+    </properties>
+                     <testcase classname="ClockTest" name="on the hour" time="0.021">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="past the hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="midnight is zero hours" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="hour rolls over" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="hour rolls over continuously" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="sixty minutes is next hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="minutes roll over" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="minutes roll over continuously" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="hour and minutes roll over" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="hour and minutes roll over continuously" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="hour and minutes roll over to exactly midnight" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative hour" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative hour rolls over" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative hour rolls over continuously" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative minutes" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative minutes roll over" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative minutes roll over continuously" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative hour and minutes both roll over" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="negative hour and minutes both roll over continuously" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add minutes" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add no minutes" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add to next hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add more than one hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add more than two hours with carry" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add across midnight" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add more than one day (1500 min = 25 hrs)" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="add more than two days" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract minutes" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract to previous hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract more than an hour" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract across midnight" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract more than two hours" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract more than two hours with borrow" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract more than one day (1500 min = 25 hrs)" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="subtract more than two days" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with same time" time="0.003">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks a minute apart" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks an hour apart" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with hour overflow" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with hour overflow by several days" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative hour" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative hour that wraps" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative hour that wraps multiple times" time="0.001">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with minute overflow" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with minute overflow by several days" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative minute" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative minute that wraps" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative minute that wraps multiple times" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative hours and minutes" time="0.0">
+                                                 
+                                               </testcase><testcase classname="ClockTest" name="clocks with negative hours and minutes that wrap" time="0.0">
+                                                 
+                                               </testcase>
+                     <system-out><![CDATA[]]></system-out>
+                     <system-err><![CDATA[]]></system-err>
+                   </testsuite>

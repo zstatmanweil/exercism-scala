@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mScrabbleScoreTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- lowercase letter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- uppercase letter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- valuable letter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- short word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- short, valuable word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- medium word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- medium, valuable word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- long, mixed-case word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- english-like word[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- empty input[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- entire alphabet available[0m[0m

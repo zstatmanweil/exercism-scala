@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTriangleTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- equilateral - true if all sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - false if any side is unequal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - false if no sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - All zero sides are illegal, so the triangle is not equilateral (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- equilateral - sides may be floats (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - true if last two sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[33m- isosceles - true if first two sides are equal (pending)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isosceles - true if first and last sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isosceles - equilateral triangles are also isosceles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isosceles - false if no sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isosceles - Sides that violate triangle inequality are not isosceles, even if two are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isosceles - sides may be floats[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- scalene - true if no sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- scalene - false if all sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- scalene - false if two sides are equal[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- scalene - Sides that violate triangle inequality are not scalene, even if they are all different[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- scalene - sides may be floats[0m[0m

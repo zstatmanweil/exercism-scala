@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mGrainsTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 4[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 16[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 32[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- 64[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- square 0 raises an exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- negative square raises an exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- square greater than 64 raises an exception[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- returns the total number of grains on the board[0m[0m

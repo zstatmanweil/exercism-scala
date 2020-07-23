@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mHighScoresTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Latest score[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal best[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top highest to lowest[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top when there is a tie[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top when there are less than 3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top when there is only one[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Personal top from a long list[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Message for new personal best[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Message when latest score is not the highest score[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Message for repeated personal best[0m[0m

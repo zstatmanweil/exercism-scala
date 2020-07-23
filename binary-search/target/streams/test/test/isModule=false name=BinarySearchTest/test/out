@@ -1,0 +1,12 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mBinarySearchTest:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value in an array with one element[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value in the middle of an array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value at the beginning of an array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value at the end of an array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value in an array of odd length[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- finds a value in an array of even length[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- identifies that a value is not included in the array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a value smaller than the array's smallest value is not found[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- a value larger than the array's largest value is not found[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nothing is found in an empty array[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- nothing is found when the left and right bounds cross[0m[0m
